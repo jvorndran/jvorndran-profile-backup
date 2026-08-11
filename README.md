@@ -65,3 +65,5 @@ Markets, machine learning, data, cloud infrastructure, agentic systems, and LLM-
 ## Let’s connect
 
 If you’re working on developer tools, web platforms, applied AI, markets, or economic research, I’d enjoy comparing notes. Reach me on [LinkedIn](https://www.linkedin.com/in/jacob-vorndran-97baa6294) or by [email](mailto:jvorndran400@gmail.com).
+
+<!-- Profile README -->
